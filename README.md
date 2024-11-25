@@ -10,9 +10,9 @@ This project is part of the **MAT 4509 Assignment** and demonstrates practical a
   - `United Airlines Aircraft Operating Statistics - Cost Per Block Hour (Unadjusted).xls`
     - Contains operational and cost data for various aircraft categories.
 - **Scripts**: 
-  - `analysis_script_1.R`: Performs statistical analysis and visualizations for maintenance costs and load factors.
-  - `analysis_script_2.R`: Analyzes purchased goods, aircraft ownership, and daily utilization costs using boxplots.
-  - `analysis_script_3.R`: Extracts salary/wage data for different fleet categories, performs statistical analysis, and plots a histogram of selected sample observations.
+  - `Q_1.R`: Performs statistical analysis and visualizations for maintenance costs and load factors.
+  - `Q_2.R`: Analyzes purchased goods, aircraft ownership, and daily utilization costs using boxplots.
+  - `Q_3.R`: Extracts salary/wage data for different fleet categories, performs statistical analysis, and plots a histogram of selected sample observations.
 
 ## Features
 
@@ -45,15 +45,15 @@ The following R packages are required:
 Install these packages using the command:
   install.packages(c("readxl", "RColorBrewer", "rstudioapi"))
 # How to Use
-**Clone this repository:
-git clone https://github.com/jamee47/MAT-4509.git
+**Clone this repository:**
+      https://github.com/jamee47/MAT-4509.git
 
 
 Open the desired R script in RStudio or any R IDE.
 
-Run the script:
+#Run the script:
 
-    analysis_script_1.R: Visualizes maintenance and load factor statistics.
-    analysis_script_2.R: Creates boxplots for costs across fleet categories.
-    analysis_script_3.R: Analyzes salary/wage data and visualizes frequency distributions.
+Q_1.R: Visualizes maintenance and load factor statistics.
+Q_2.R: Creates boxplots for costs across fleet categories.
+Q_3.R: Analyzes salary/wage data and visualizes frequency distributions.
 View the generated visualizations and statistical results in the RStudio plots window.

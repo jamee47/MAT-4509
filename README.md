@@ -2,6 +2,7 @@
 # United Airlines Aircraft Operating Statistics Analysis
 
 This repository contains scripts and data for analyzing the aircraft operating statistics of United Airlines. The analysis is focused on extracting and visualizing information from an Excel file related to **Cost Per Block Hour (Unadjusted)**.
+This project is part of the **MAT 4509 Assignment** and demonstrates practical applications of statistical analysis and data visualization.
 
 ## Contents
 

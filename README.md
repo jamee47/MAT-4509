@@ -46,14 +46,14 @@ Install these packages using the command:
   install.packages(c("readxl", "RColorBrewer", "rstudioapi"))
 # How to Use
 **Clone this repository:**
-      https://github.com/jamee47/MAT-4509.git
+    https://github.com/jamee47/MAT-4509.git
 
 
 Open the desired R script in RStudio or any R IDE.
 
-#Run the script:
+## Run the script:
 
-Q_1.R: Visualizes maintenance and load factor statistics.
-Q_2.R: Creates boxplots for costs across fleet categories.
-Q_3.R: Analyzes salary/wage data and visualizes frequency distributions.
+    Q_1.R: Visualizes maintenance and load factor statistics.
+    Q_2.R: Creates boxplots for costs across fleet categories.
+    Q_3.R: Analyzes salary/wage data and visualizes frequency distributions.
 View the generated visualizations and statistical results in the RStudio plots window.

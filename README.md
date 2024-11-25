@@ -46,7 +46,7 @@ Install these packages using the command:
   install.packages(c("readxl", "RColorBrewer", "rstudioapi"))
 ## How to Use
 **Clone this repository:**
-    https://github.com/jamee47/MAT-4509.git
+   '''' https://github.com/jamee47/MAT-4509.git ''''
 
 Open the desired R script in RStudio or any R IDE.
 

@@ -62,7 +62,7 @@ fleet_category <- c(
   "total fleet"
 )
 
-# Pie charts for maintenance
+# Pie charts for maintenanc
 windows(width = 1920 / 100, height = 1080 / 100) # Set window size
 par(mfrow = c(2, 2), oma = c(0, 0, 3, 0))
 
